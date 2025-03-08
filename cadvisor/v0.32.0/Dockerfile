@@ -1,3 +1,3 @@
-FROM node:16.14.0-stretch-slim 
+FROM gcr.io/cadvisor/cadvisor
 MAINTAINER jtxiao <jtxiao@tfxing.com>
 
